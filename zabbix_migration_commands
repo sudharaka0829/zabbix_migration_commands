@@ -1,0 +1,2 @@
+yum install perl perl-DBD-MySQL
+rpm -ivh percona-xtrabackup-24-2.4.29-1.el9.x86_64.rpm
